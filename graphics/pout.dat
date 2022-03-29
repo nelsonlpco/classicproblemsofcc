@@ -1,0 +1,4 @@
+1,CachedFib-8,18972273,66.01
+2,MemoizedFib-8,55300176,21.36
+3,SequentialFibonacci-8,13344848,88.96
+4,MemoizedSequentialFibonacci-8,54911217,21.37
